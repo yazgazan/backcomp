@@ -1,0 +1,1035 @@
+[
+  {
+    "Method": "GET",
+    "URL": "http://golang.org/",
+    "Header": {
+      "Upgrade-Insecure-Requests": [
+        "1"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Upgrade-Insecure-Requests": [
+        "1"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/lib/godoc/style.css",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/lib/godoc/style.css"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "text/css,*/*;q=0.1"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/lib/godoc/jquery.treeview.css",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/lib/godoc/jquery.treeview.css"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "text/css,*/*;q=0.1"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
+    "Header": {
+      ":authority": [
+        "ajax.googleapis.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/ajax/libs/jquery/1.8.2/jquery.min.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/lib/godoc/jquery.treeview.js",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/lib/godoc/jquery.treeview.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/lib/godoc/jquery.treeview.edit.js",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/lib/godoc/jquery.treeview.edit.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/lib/godoc/playground.js",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/lib/godoc/playground.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/lib/godoc/godocs.js",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/lib/godoc/godocs.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://www.youtube.com/embed/ytEkHepK08c",
+    "Header": {
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "Upgrade-Insecure-Requests": [
+        "1"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/doc/share.png",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/doc/share.png"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "image/webp,image/*,*/*;q=0.8"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/lib/godoc/style.css"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://golang.org/doc/gopher/frontpage.png",
+    "Header": {
+      ":authority": [
+        "golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/doc/gopher/frontpage.png"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "image/webp,image/*,*/*;q=0.8"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/lib/godoc/style.css"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://ssl.google-analytics.com/ga.js",
+    "Header": {
+      ":authority": [
+        "ssl.google-analytics.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/ga.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://blog.golang.org/.json?jsonp=feedLoaded\u0026_=1493551625430",
+    "Header": {
+      ":authority": [
+        "blog.golang.org"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/.json?jsonp=feedLoaded\u0026_=1493551625430"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://www.youtube.com/embed/f6kdp27TYZs",
+    "Header": {
+      ":authority": [
+        "www.youtube.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/embed/f6kdp27TYZs"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Cookie": [
+        "YSC=Ov0AimaURL8; PREF=f1=50000000; VISITOR_INFO1_LIVE=vaAmPVP-OEw"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "Upgrade-Insecure-Requests": [
+        "1"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://www.youtube.com/yts/cssbin/www-embed-player-webp-vflLI1MEH.css",
+    "Header": {
+      ":authority": [
+        "www.youtube.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/yts/cssbin/www-embed-player-webp-vflLI1MEH.css"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "text/css,*/*;q=0.1"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Cookie": [
+        "YSC=Ov0AimaURL8; PREF=f1=50000000; VISITOR_INFO1_LIVE=vaAmPVP-OEw"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://www.youtube.com/yts/jsbin/www-embed-player-vflKSKo6B/www-embed-player.js",
+    "Header": {
+      ":authority": [
+        "www.youtube.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/yts/jsbin/www-embed-player-vflKSKo6B/www-embed-player.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Cookie": [
+        "YSC=Ov0AimaURL8; PREF=f1=50000000; VISITOR_INFO1_LIVE=vaAmPVP-OEw"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://www.youtube.com/yts/jsbin/player-vflppxuSE/en_US/base.js",
+    "Header": {
+      ":authority": [
+        "www.youtube.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/yts/jsbin/player-vflppxuSE/en_US/base.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Cookie": [
+        "YSC=Ov0AimaURL8; PREF=f1=50000000; VISITOR_INFO1_LIVE=vaAmPVP-OEw"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://stats.g.doubleclick.net/r/collect?v=1\u0026aip=1\u0026t=dc\u0026_r=3\u0026tid=UA-11222381-2\u0026cid=1482826591.1493551626\u0026jid=359939173\u0026_v=5.6.7\u0026z=973640958",
+    "Header": {
+      ":authority": [
+        "stats.g.doubleclick.net"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/r/collect?v=1\u0026aip=1\u0026t=dc\u0026_r=3\u0026tid=UA-11222381-2\u0026cid=1482826591.1493551626\u0026jid=359939173\u0026_v=5.6.7\u0026z=973640958"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "image/webp,image/*,*/*;q=0.8"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.6.7\u0026utms=2\u0026utmn=1520258011\u0026utmhn=golang.org\u0026utmcs=UTF-8\u0026utmsr=1280x800\u0026utmvp=1280x363\u0026utmsc=24-bit\u0026utmul=en-us\u0026utmje=0\u0026utmfl=25.0%20r0\u0026utmdt=The%20Go%20Programming%20Language\u0026utmhid=1553033240\u0026utmr=-\u0026utmp=%2F\u0026utmht=1493551625728\u0026utmac=UA-49880327-6\u0026utmcc=__utma%3D110886291.1482826591.1493551626.1493551626.1493551626.1%3B%2B__utmz%3D110886291.1493551626.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B\u0026utmjid=655372032\u0026utmredir=1\u0026utmmt=1\u0026utmu=qACgAAAAAAAAAAAAAAAAAAAE~",
+    "Header": {
+      ":authority": [
+        "ssl.google-analytics.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/r/__utm.gif?utmwv=5.6.7\u0026utms=2\u0026utmn=1520258011\u0026utmhn=golang.org\u0026utmcs=UTF-8\u0026utmsr=1280x800\u0026utmvp=1280x363\u0026utmsc=24-bit\u0026utmul=en-us\u0026utmje=0\u0026utmfl=25.0%20r0\u0026utmdt=The%20Go%20Programming%20Language\u0026utmhid=1553033240\u0026utmr=-\u0026utmp=%2F\u0026utmht=1493551625728\u0026utmac=UA-49880327-6\u0026utmcc=__utma%3D110886291.1482826591.1493551626.1493551626.1493551626.1%3B%2B__utmz%3D110886291.1493551626.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B\u0026utmjid=655372032\u0026utmredir=1\u0026utmmt=1\u0026utmu=qACgAAAAAAAAAAAAAAAAAAAE~"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "image/webp,image/*,*/*;q=0.8"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://googleads.g.doubleclick.net/pagead/id",
+    "Header": {
+      ":authority": [
+        "googleads.g.doubleclick.net"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/pagead/id"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Origin": [
+        "https://www.youtube.com"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://www.google.com/js/bg/iXZx_D7hR9Rjgcy3ewpVu_DiAiHdGE5shGoRu_JlsHI.js",
+    "Header": {
+      ":authority": [
+        "www.google.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/js/bg/iXZx_D7hR9Rjgcy3ewpVu_DiAiHdGE5shGoRu_JlsHI.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://static.doubleclick.net/instream/ad_status.js",
+    "Header": {
+      ":authority": [
+        "static.doubleclick.net"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/instream/ad_status.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.6.7\u0026utms=1\u0026utmn=973640958\u0026utmhn=golang.org\u0026utmcs=UTF-8\u0026utmsr=1280x800\u0026utmvp=1280x363\u0026utmsc=24-bit\u0026utmul=en-us\u0026utmje=0\u0026utmfl=25.0%20r0\u0026utmdt=The%20Go%20Programming%20Language\u0026utmhid=1553033240\u0026utmr=-\u0026utmp=%2F\u0026utmht=1493551625697\u0026utmac=UA-11222381-2\u0026utmcc=__utma%3D110886291.1482826591.1493551626.1493551626.1493551626.1%3B%2B__utmz%3D110886291.1493551626.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B\u0026utmjid=359939173\u0026utmredir=1\u0026utmmt=1\u0026utmu=qACgAAAAAAAAAAAAAAAAAAAE~",
+    "Header": {
+      ":authority": [
+        "ssl.google-analytics.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/r/__utm.gif?utmwv=5.6.7\u0026utms=1\u0026utmn=973640958\u0026utmhn=golang.org\u0026utmcs=UTF-8\u0026utmsr=1280x800\u0026utmvp=1280x363\u0026utmsc=24-bit\u0026utmul=en-us\u0026utmje=0\u0026utmfl=25.0%20r0\u0026utmdt=The%20Go%20Programming%20Language\u0026utmhid=1553033240\u0026utmr=-\u0026utmp=%2F\u0026utmht=1493551625697\u0026utmac=UA-11222381-2\u0026utmcc=__utma%3D110886291.1482826591.1493551626.1493551626.1493551626.1%3B%2B__utmz%3D110886291.1493551626.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B\u0026utmjid=359939173\u0026utmredir=1\u0026utmmt=1\u0026utmu=qACgAAAAAAAAAAAAAAAAAAAE~"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "image/webp,image/*,*/*;q=0.8"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://golang.org/"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://www.youtube.com/yts/jsbin/player-vflppxuSE/en_US/remote.js",
+    "Header": {
+      ":authority": [
+        "www.youtube.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/yts/jsbin/player-vflppxuSE/en_US/remote.js"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Cookie": [
+        "YSC=Ov0AimaURL8; PREF=f1=50000000; VISITOR_INFO1_LIVE=vaAmPVP-OEw"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://i.ytimg.com/vi_webp/f6kdp27TYZs/sddefault.webp",
+    "Header": {
+      ":authority": [
+        "i.ytimg.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/vi_webp/f6kdp27TYZs/sddefault.webp"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "image/webp,image/*,*/*;q=0.8"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "GET",
+    "URL": "https://fonts.gstatic.com/s/roboto/v15/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2",
+    "Header": {
+      ":authority": [
+        "fonts.gstatic.com"
+      ],
+      ":method": [
+        "GET"
+      ],
+      ":path": [
+        "/s/roboto/v15/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, sdch, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Origin": [
+        "https://www.youtube.com"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ]
+    },
+    "Body": ""
+  },
+  {
+    "Method": "POST",
+    "URL": "https://www.youtube.com/ad_data_204",
+    "Header": {
+      ":authority": [
+        "www.youtube.com"
+      ],
+      ":method": [
+        "POST"
+      ],
+      ":path": [
+        "/ad_data_204"
+      ],
+      ":scheme": [
+        "https"
+      ],
+      "Accept": [
+        "*/*"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.8,fr;q=0.6,fr-FR;q=0.4"
+      ],
+      "Content-Length": [
+        "616"
+      ],
+      "Content-Type": [
+        "application/x-www-form-urlencoded"
+      ],
+      "Cookie": [
+        "YSC=Ov0AimaURL8; PREF=f1=50000000; VISITOR_INFO1_LIVE=vaAmPVP-OEw"
+      ],
+      "Dnt": [
+        "1"
+      ],
+      "Origin": [
+        "https://www.youtube.com"
+      ],
+      "Referer": [
+        "https://www.youtube.com/embed/f6kdp27TYZs"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+      ],
+      "X-Youtube-Client-Name": [
+        "1"
+      ],
+      "X-Youtube-Client-Version": [
+        "1.20170427"
+      ]
+    },
+    "Body": ""
+  }
+]
