@@ -2,7 +2,7 @@
 ## API Proposal
 
 Backcomp (good name pending) is a tool intended to watch for breaking changes in HTTP/JSON apis.
-A breaking change being change being defined by:
+A breaking change is defined by:
 
 - A type changing for a field or array element
 - A field missing in the response
